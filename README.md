@@ -1,6 +1,6 @@
 # campus-rover
    # Campus Rover — Sense · Think · Act · Connect
-   Team: Akshaya + (your partner's name)   Course: 26EC1101E Fundamentals of IoT & Sensors
+   Team: Akshaya + (partner's name)   Course: 26EC1101E Fundamentals of IoT & Sensors
 
    ## What it will do by Week 12 (acceptance criteria)
    - [ ] Measures distance ahead and slows as an obstacle approaches
